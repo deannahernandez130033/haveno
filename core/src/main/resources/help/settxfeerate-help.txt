@@ -17,3 +17,5 @@ EXAMPLES
 --------
 Set custom transaction fee rate to 25 sats/byte:
 $ ./haveno-cli --password=xyz --port=9998 settxfeerate --tx-fee-rate=25
+
+# Update: 2025-10-05
