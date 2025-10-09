@@ -48,3 +48,5 @@ A seller sends a trade's XMR proceeds to an external wallet, and includes an opt
 $ ./haveno-cli --password=xyz --port=9998 withdrawfunds --trade-id=83e8b2e2-51b6-4f39-a748-3ebd29c22aea \
     --address=2N5J6MyjAsWnashimGiNwoRzUXThsQzRmbv \
     --memo="note to self"
+
+# Update: 2025-10-09
